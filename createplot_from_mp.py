@@ -78,7 +78,7 @@ subprocess.run(["job_tdos",num,"-np","4"])
 
 #os.chdir("../")
 #subprocess.run("pwd")
-subprocess.run(["aaatest.py",mate,num])
+subprocess.run(["editglt.py",mate,num])
 #os.chdir(mate)
 
 if os.path.isfile("new.glt") == True:
