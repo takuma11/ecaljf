@@ -1,3 +1,5 @@
 # ecaljf
 
-** what is this?
+what is this?
+we can get tdosplot and bandplot from mpid
+
